@@ -244,7 +244,7 @@ img {
 .section {
   margin: 0 auto;
   background: var(--purple-400);
-  min-height: 99vh;
+  min-height: 90svh;
   max-width: 75rem;
   padding:0 0.5rem;
   display: flex;
@@ -303,7 +303,7 @@ img {
  .p1 {
     margin-bottom:auto;
     color: var(--white-100);
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 700;
     line-height: 1;
     text-align: center;
@@ -312,7 +312,7 @@ img {
 
  .p2 {
     color: var(--textcolor-100);
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     font-weight: 200;
     margin-top: 1rem;
     text-align:center;
